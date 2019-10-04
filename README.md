@@ -1,1 +1,1 @@
-"# prometheus-collector" 
+# prometheus-collector
